@@ -12,7 +12,7 @@ cd kodluyoruzilkrepocode .
 ## Contributing
 Kodluyoruz ekibine teşekkürler.
 
-![Projemin resmi]
+
 
 
 
