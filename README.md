@@ -16,7 +16,7 @@ Kodluyoruz ekibine teşekkürler.
 [MIT](https://choosealicense.com/licenses/mit/)
 
 ## Patika Link
-[Patika.dev](https://www.patika.dev/tr)
+[Patika.Dev](https://www.patika.dev/tr)
 
 
 
