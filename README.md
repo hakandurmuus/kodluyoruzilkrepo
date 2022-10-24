@@ -12,6 +12,9 @@ cd kodluyoruzilkrepocode .
 ## Contributing
 Kodluyoruz ekibine teşekkürler.
 
+## Lıcense
+[MIT](https://choosealicense.com/licenses/mit/)
+
 
 
 
