@@ -1,0 +1,59 @@
+<form action="kayit.php" method="get" target="_blank">
+    <fieldset>
+        <legend>Birincil Bilgiler</legend>
+    İsim:<br>
+     <input type="text" name="isim"><br>
+    Soyisim <br>
+     <input type="text" name="soyisim"><br>
+    Şifre:<br>
+     <input type="password" name="sifre"><br>
+    </fieldset>
+    <fieldset>
+        <legend>İkincil Bilgiler</legend>
+     Telefon: <br>
+     <input type="tel" name="tel no" placeholder="0 5XX XXX XX XX"><br>
+     Email:<br>
+     <input type="email" name="email"><br>
+    </fieldset>
+    <fieldset>
+        <legend>Üçüncül Bilgiler</legend>
+     Doğum Tarihi:<br>
+     <input type="date" name="dogumgunu"><br>
+     Cinsiyetiniz:<br>
+     <input type="radio" name="cinsiyet" value="bay"> Bay<br>
+     <input type="radio" name="cinsiyet" value="bayan"> Bayan<br>
+    </fieldset>
+    <fieldset>
+        <legend>Dördüncül Bilgiler</legend>
+     Resim Yükleyin:<br>
+     <input type="file" name="resim"><br>
+     Sayı Seçin:<br>
+     <input type="number" name="sayi" min="1" max="9"><br>
+    </fieldset>
+    <fieldset>
+        <legend>Ülke Seçimi</legend>
+        <select name="ulkelistesi" form="ulkeler">
+            <optgroup label="Avrupa Ülkeleri">
+                <option value="1">Almanya</option>
+                <option value="2">İngiltere</option>
+                <option value="3">İtalya</option>
+            </optgroup>
+            <optgroup label="Amerika Ülkeleri">
+                <option value="1">ABD</option>
+                <option value="2">Brezilya</option>
+                <option value="3">Arjantin</option>
+            </optgroup>
+            <optgroup label="Asya Ülkeleri">
+                <option value="1">Hindistan</option>
+                <option value="2">Çin</option>
+                <option value="3">Japonya</option> 
+            </optgroup>
+
+        </select>
+    </fieldset>
+
+
+
+    <input type="image" src="image/manzara.jpg" alt="Gönder" width="50" height="50">
+    
+</form>
